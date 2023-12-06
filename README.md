@@ -21,6 +21,7 @@ The challenge in this project lies in how to detect the frequency of the pulse a
 
 # project proposal, planning and organizing
 Based on the heart rate sensor, I will get the value of BPM, I’m thinking about showing this BPM in different emojis of different body conditions. In addition, each beat can cause a change to the main pattern.
+![Gg0MWk.png](https://imgpile.com/images/Gg0MWk.png)
 
 ## System diagram & FSM diagram
 TBD
